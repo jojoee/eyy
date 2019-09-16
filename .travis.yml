@@ -4,7 +4,6 @@ language: node_js
 node_js:
   - 'node'
   - '11'
-  - '10'
   - '6'
 
 sudo: false
@@ -27,4 +26,10 @@ cache:
 git:
   depth: 1
 
-after_success: npm run coverage
+script:
+  - npm run test
+  - npm run compile
+
+after_success:
+  - npm run coverage
+  - npm run push-and-publish

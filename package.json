@@ -92,6 +92,5 @@
     "require": [
       "ts-node/register"
     ]
-  },
-  "private": true
+  }
 }

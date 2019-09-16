@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joe/eyy.git"
+    "url": "git+https://github.com/jojoee/eyy.git"
   },
   "keywords": [
     "e",
@@ -44,9 +44,9 @@
   "author": "Nathachai Thongniran <inid3a@gmail.com> (https://github.com/joe)",
   "license": "SEE LICENSE IN <LICENSE>",
   "bugs": {
-    "url": "https://github.com/joe/eyy/issues"
+    "url": "https://github.com/jojoee/eyy/issues"
   },
-  "homepage": "https://github.com/joe/eyy",
+  "homepage": "https://github.com/jojoee/eyy",
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^10.14.4",

@@ -1,6 +1,6 @@
 {
   "name": "eyy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "eyyeyyeyy...",
   "main": "dist/src/eyy.js",
   "types": "dist/src/eyy.d.ts",
@@ -41,7 +41,7 @@
     "eyy",
     "yy"
   ],
-  "author": "Nathachai Thongniran <inid3a@gmail.com> (https://github.com/joe)",
+  "author": "Nathachai Thongniran <inid3a@gmail.com> (https://github.com/jojoee)",
   "license": "SEE LICENSE IN <LICENSE>",
   "bugs": {
     "url": "https://github.com/jojoee/eyy/issues"
